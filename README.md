@@ -105,6 +105,4 @@ These are **reported experimental results**, not an independently reproduced ben
 
 Completed as a **group semester project** for *Einführung in das maschinelle Lernen* at **Technische Hochschule Brandenburg**, supervised by **Prof. Dr. Artur Tarassow** (July 2026).
 
-**Contributors:** Rick Pfennigschmidt, Tom Polewka, Nadine Ben Taziri.
-
 This repository is intended for educational and portfolio purposes. Please cite the original data providers when reusing the research materials.
